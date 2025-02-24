@@ -10,7 +10,7 @@ body{
     ;
     padding: 20px;
     border: 3px solid #000;
-    font: baskerville;
+    font-family: baskerville;
 }
 .coluna-50{
     width:50%;
