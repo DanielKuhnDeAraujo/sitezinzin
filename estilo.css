@@ -43,6 +43,7 @@ hr {
     float:left;
     display:block;
     text-decoration: none;
+    font-family: 'Roboto', sans-serif;
 }
 .full{
     background-color: white;
