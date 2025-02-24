@@ -23,6 +23,9 @@ body{
     border: 3px solid #000;
     
 }
+.coluna-50 img{
+    heigth:250px;
+}
 hr {
     border-color:#000;
 }
