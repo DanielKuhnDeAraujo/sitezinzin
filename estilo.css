@@ -10,7 +10,7 @@ body{
     padding: 20px;
     border: 3px solid #00ED64;
 }
-.coluna-50r{
+.coluna-50r {
     width:50%;
     float:left;
     background-color: #000;
@@ -22,7 +22,7 @@ body{
     border-top: 3px solid #00ED64;
     border-right:3px solid #00ED64:
     border-bottom: 3px solid #00ED64;
-.coluna-50l{
+.coluna-50l {
     width:50%;
     float:left;
     background-color: #000;
