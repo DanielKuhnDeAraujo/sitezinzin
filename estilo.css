@@ -22,6 +22,30 @@ body {
     border-top: 3px solid #00ED64;
     border-bottom: 3px solid #00ED64;
 }
+.coluna-50l {
+    width:50%;
+    float:left;
+    background-color: #000;
+    color:#00ED64;
+    padding:15px 15px;
+    text-align: center;
+    height:250px;
+    overflow: hidden;
+    border-top: 3px solid #00ED64;
+    border-bottom: 3px solid #00ED64;
+}
+.coluna-50r {
+    width:50%;
+    float:left;
+    background-color: #000;
+    color:#00ED64;
+    padding:15px 15px;
+    text-align: center;
+    height:250px;
+    overflow: hidden;
+    border-top: 3px solid #00ED64;
+    border-bottom: 3px solid #00ED64;
+}
 hr {
     border-color:#000;
 }
