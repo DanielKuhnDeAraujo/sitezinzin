@@ -1,10 +1,10 @@
 *{
     box-sizing: border-box;
 }
-body{
+body {
     margin:0;
 }
-.topo{
+.topo {
     text-align: center;
     background-color: #000;
     padding: 20px;
