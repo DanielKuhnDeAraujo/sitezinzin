@@ -37,7 +37,7 @@ hr {
 }
 .menu{
     overflow: hidden;
-    border:3px solid ##00ED64;
+    border:3px solid #00ED64;
     text-decoration: none;
     display: flex;
     justify-content: center;
@@ -47,6 +47,7 @@ hr {
     padding: 14px 16px;
     float:left;
     display:block;
+    color:#00ED64;
 }
 .full{
     background-color: white;
