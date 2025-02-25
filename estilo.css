@@ -10,7 +10,7 @@ body{
     padding: 20px;
     border: 3px solid #00ED64;
 }
-.coluna-50r {
+.coluna-50 {
     width:50%;
     float:left;
     background-color: #000;
@@ -20,22 +20,7 @@ body{
     height:250px;
     overflow: hidden;
     border-top: 3px solid #00ED64;
-    border-right:3px solid #00ED64:
     border-bottom: 3px solid #00ED64;
-.coluna-50l {
-    width:50%;
-    float:left;
-    background-color: #000;
-    color:#00ED64;
-    padding:15px 15px;
-    text-align: center;
-    height:250px;
-    overflow: hidden;
-    border-top: 3px solid #00ED64;
-    border-left:3px solid #00ED64:
-    border-bottom: 3px solid #00ED64;
-    
-}
 hr {
     border-color:#000;
 }
