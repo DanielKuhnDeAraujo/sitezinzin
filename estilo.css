@@ -22,7 +22,7 @@ body {
     border-bottom: 3px solid #00ED64;
 }
 .coluna-50l {
-    width:49.9vw;
+    width:49vw;
     float:left;
     background-color: #000;
     color:#00ED64;
@@ -32,10 +32,10 @@ body {
     overflow: hidden;
     border-top: 3px solid #00ED64;
     border-bottom: 3px solid #00ED64;
-    border-left:3px solid #00ED64;
+    border-left:1vw solid #00ED64;
 }
 .coluna-50r {
-    width:49.9vw;
+    width:49vw;
     float:left;
     background-color: #000;
     color:#00ED64;
@@ -45,7 +45,7 @@ body {
     overflow: hidden;
     border-top: 3px solid #00ED64;
     border-bottom: 3px solid #00ED64;
-    border-right: 3px solid #00ED64;
+    border-right: 1vw solid #00ED64;
 }
 hr {
     border-color:#00ED64;
