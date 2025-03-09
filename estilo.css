@@ -22,7 +22,7 @@ body {
     border-bottom: 3px solid #00ED64;
 }
 .coluna-50l {
-    width:50vw;
+    width:49.9vw;
     float:left;
     background-color: #000;
     color:#00ED64;
@@ -35,7 +35,7 @@ body {
     border-left:3px solid #00ED64;
 }
 .coluna-50r {
-    width:50vw;
+    width:49.9vw;
     float:left;
     background-color: #000;
     color:#00ED64;
