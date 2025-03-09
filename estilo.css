@@ -22,7 +22,7 @@ body {
     border-bottom: 3px solid #00ED64;
 }
 .coluna-50l {
-    width:50%;
+    width:50vw;
     float:left;
     background-color: #000;
     color:#00ED64;
@@ -96,7 +96,7 @@ li {
     color:#00ED64;
 }
 .coluna-50l img {
-    height:220px;
+    width:48vw;
 }
 #ad {
      font-size:75px;
