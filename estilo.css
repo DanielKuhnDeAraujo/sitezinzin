@@ -35,7 +35,7 @@ body {
     border-left:3px solid #00ED64;
 }
 .coluna-50r {
-    width:50%;
+    width:50vw;
     float:left;
     background-color: #000;
     color:#00ED64;
