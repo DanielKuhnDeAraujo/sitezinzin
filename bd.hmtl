@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="ds.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="DanielKuhn">
+    <link rel="stylesheet" href="estilo.css" >
+    <title>BD trabalho</title>
+  </head>
+  <body>
+    <header class="topo">
+        <h1>1° DS NEWS</h1>
+        <p>O melhor jornal das etecs e do mundo</p>
+    </header>
+    <nav class="menu">
+        <a href="index.html">Início</a>
+        <a href="outro.html">Tarefas</a>
+        <a href="dia.html">Diário</a>
+        <a href="ad.html">Anúncios</a>
+    </nav>
+    <section class="full" height="500">
+      <h2>Trabalho de História</h2>
+      <p>Hoje , dia 25/02/2025,  a professora Andreia decidiu fazer uma atividde de metodologia ativa , a sala da aula invertida. Essa atividade é mais conhecida no vocabulário popular como apresentação de trabalho. O tema é Big Bang</p>
+      <hr>
+      <p>Ela quer que expliquemos para ela essa teoria. Nas palavras dela :<q>Isso não entra na minha cabeça , é muito fantasioso.</q></p>
+      <h3>Tabela Grupos/temas</h3>
+      <table bordercolor="red" border="1">
+        <tr bordercolor="#00ED64" border="1">
+          <th>Grupo</th>
+          <th>Integrantes Conhecidos</th>
+          <th>Atribuições</th>
+          <th>SQL ou NoSQL</th>
+        </tr>
+        <tr>
+        </tr>
+      </table>
+    </section>
+  </body>
+</html>
