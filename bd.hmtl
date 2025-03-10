@@ -20,10 +20,10 @@
         <a href="ad.html">Anúncios</a>
     </nav>
     <section class="full" height="500">
-      <h2>Trabalho de História</h2>
-      <p>Hoje , dia 25/02/2025,  a professora Andreia decidiu fazer uma atividde de metodologia ativa , a sala da aula invertida. Essa atividade é mais conhecida no vocabulário popular como apresentação de trabalho. O tema é Big Bang</p>
+      <h2>Trabalho de Banco de Dados</h2>
+      <p>Hoje , dia 10/03/2025,  a professora Andreia e a Amanda passaram um trabalho na aula de BD(Banco de Dados)</p>
       <hr>
-      <p>Ela quer que expliquemos para ela essa teoria. Nas palavras dela :<q>Isso não entra na minha cabeça , é muito fantasioso.</q></p>
+      <p>Ela passou diversos temas e escolhemos os grupos e temas , tendo até 5 pessoas por tema.</q></p>
       <h3>Tabela Grupos/temas</h3>
       <table bordercolor="red" border="1">
         <tr bordercolor="#00ED64" border="1">
@@ -32,11 +32,17 @@
           <th>Atribuições</th>
           <th>SQL ou NoSQL</th>
         </tr>
+        <tr>
           <td>...</td>
           <td>Lucas,Gustavo N.</td>
           <td>SQL server</td>
           <td>SQL</td>
+        </tr>
         <tr>
+          <td>Melhor Grupo</td>
+          <td>Júlia S., Vinicius R., Daniel K, Flávio, Beatrice</td>
+          <td>Oracle</td>
+          <td>SQL</td>
         </tr>
       </table>
     </section>
