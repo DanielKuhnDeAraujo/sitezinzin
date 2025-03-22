@@ -101,3 +101,11 @@ li {
 #ad {
      font-size:35vh;
 }
+.menu a:hover{
+    
+   
+    background-color: red;
+    color:black;
+    transition: 2s;
+ 
+}
