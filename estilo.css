@@ -74,6 +74,7 @@ hr {
     display:block;
     color:#00ED64;
     text-decoration:none;
+    transition:1s;
 }
 .full {
     background-color: #000;
