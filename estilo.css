@@ -111,3 +111,20 @@ li {
     transition: 1s;
  
 }
+.btnUm {
+    background-color: #000;
+    color: #00ED64;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #00ED64;
+    transition:2s;
+    float:right
+}
+.btnUm:hover {
+    background-color: #00ED64;
+    color: #000;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    transition:2s;
+}
