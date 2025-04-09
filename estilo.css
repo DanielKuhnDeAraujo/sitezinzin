@@ -118,7 +118,6 @@ li {
     border-radius: 10px;
     border: 1px solid #00ED64;
     transition:2s;
-    float:right
 }
 .btnUm:hover {
     background-color: #00ED64;
