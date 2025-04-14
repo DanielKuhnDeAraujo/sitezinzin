@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: #00ED64;
+}
+
+table, th, td {
+    border: 1px solid #00ED64;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.all-in-one {
+    border: 3px solid #00ED64;
+    padding: 30px;
+}
+
+.date-part {
+    align-items: center;
+    background-color: #00ED64;
+    color: black;
+    padding: 1px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+.side-side-lesson{
+    display: flex;
+    padding: 20px;
+}
+
+.side-side-lesson section {
+    padding: 3%;
+    justify-items: center;
+}
+
+hr {
+    border-color: #00ED64;
+}
