@@ -172,8 +172,8 @@ li {
     transition: 2s;
 }
 @media (max-width: 600px) {
-  coluna-50l,coluna-50r {
-    width: 100vw;
+  .coluna-50l,.coluna-50r {
+    width: 100%;
     height: auto;
   }
 }
