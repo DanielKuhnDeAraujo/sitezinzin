@@ -78,7 +78,7 @@ body {
     padding: 15px 15px;
     text-align: center;
     height: 250px;
-    overflow: wrap;
+    overflow: hidden;
     border-top: 3px solid #00ED64;
     border-bottom: 3px solid #00ED64;
     border-right: 3px solid #00ED64;
@@ -170,4 +170,7 @@ li {
     border-radius: 10px;
     border: 1px solid #000;
     transition: 2s;
+}
+@media (max-width:600px;) {
+    p { font-size:10px;}
 }
