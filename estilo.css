@@ -101,7 +101,7 @@ hr {
     text-decoration: none;
     display: flex;
     justify-content: center;
-    background-color: #1b1b1b;
+    background-color: #000;
 }
 
 .menu a {
@@ -114,7 +114,7 @@ hr {
 }
 
 .full {
-    background-color: #1b1b1b;
+    background-color: #000;
     color: #00ED64;
     border: 3px solid #00ED64;
     padding: 15px;
