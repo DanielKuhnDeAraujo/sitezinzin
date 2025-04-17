@@ -175,5 +175,10 @@ li {
   .coluna-50l,.coluna-50r {
     width: 100%;
     height: auto;
+    border:1px solid #00ED64;
   }
+    .coluna-50l img {
+        width: 100%;
+        height: auto;
+    }
 }
