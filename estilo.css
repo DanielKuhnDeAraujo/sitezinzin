@@ -7,7 +7,16 @@
     background-color: #000;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+.topo {
+    text-align: center;
+    padding: 20px;
+    border: 3px solid #00ED64;
+}
+.topo h1 {
+    color: #00ED64;
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+}
 #topohis {
     text-align: center;
     background-image: url(neader.jpeg);
