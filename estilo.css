@@ -7,10 +7,15 @@
     background-color: #000;
     font-family: Arial, Helvetica, sans-serif;
 }
+body {
+    margin: 0;
+    background-color: #000;
+}
 .topo {
     text-align: center;
     padding: 20px;
     border: 3px solid #00ED64;
+    background-color: #000;
 }
 .topo h1 {
     color: #00ED64;
