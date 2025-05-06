@@ -161,6 +161,7 @@ li {
     border-radius: 10px;
     border: 1px solid #00ED64;
     transition: 2s;
+    margin:5px;
 }
 
 .btnUm:hover {
