@@ -102,7 +102,7 @@ hr {
     display: flex;
     justify-content: center;
     background-color: #000;
-    position:sticky;
+    position:fixed;
     top:0;
 }
 
